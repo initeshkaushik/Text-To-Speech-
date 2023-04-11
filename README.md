@@ -16,4 +16,4 @@
 
 7. To exit the program, type "q", and the program will use text-to-speech to say "thanks for using".
 
-Note: Ensure that you have speakers or headphones connected to your computer so that you can hear the text being pronounced.
+<b> Note: Ensure that you have speakers or headphones connected to your computer so that you can hear the text being pronounced.</b>
